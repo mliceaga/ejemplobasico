@@ -1,0 +1,14 @@
+C:\KmtTelemetria\ejemplobasico\obj\Debug\netcoreapp2.2\ejemplobasico.csprojAssemblyReference.cache
+C:\KmtTelemetria\ejemplobasico\obj\Debug\netcoreapp2.2\ejemplobasico.csproj.CoreCompileInputs.cache
+C:\KmtTelemetria\ejemplobasico\obj\Debug\netcoreapp2.2\ejemplobasico.RazorAssemblyInfo.cache
+C:\KmtTelemetria\ejemplobasico\obj\Debug\netcoreapp2.2\ejemplobasico.RazorAssemblyInfo.cs
+C:\KmtTelemetria\ejemplobasico\obj\Debug\netcoreapp2.2\ejemplobasico.AssemblyInfoInputs.cache
+C:\KmtTelemetria\ejemplobasico\obj\Debug\netcoreapp2.2\ejemplobasico.AssemblyInfo.cs
+C:\KmtTelemetria\ejemplobasico\bin\Debug\netcoreapp2.2\ejemplobasico.deps.json
+C:\KmtTelemetria\ejemplobasico\bin\Debug\netcoreapp2.2\ejemplobasico.runtimeconfig.json
+C:\KmtTelemetria\ejemplobasico\bin\Debug\netcoreapp2.2\ejemplobasico.runtimeconfig.dev.json
+C:\KmtTelemetria\ejemplobasico\bin\Debug\netcoreapp2.2\ejemplobasico.dll
+C:\KmtTelemetria\ejemplobasico\bin\Debug\netcoreapp2.2\ejemplobasico.pdb
+C:\KmtTelemetria\ejemplobasico\obj\Debug\netcoreapp2.2\ejemplobasico.RazorTargetAssemblyInfo.cache
+C:\KmtTelemetria\ejemplobasico\obj\Debug\netcoreapp2.2\ejemplobasico.dll
+C:\KmtTelemetria\ejemplobasico\obj\Debug\netcoreapp2.2\ejemplobasico.pdb
